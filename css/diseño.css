@@ -1,0 +1,43 @@
+.sign-in {
+    padding: 20px;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+}
+
+.sign-in-container {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.sign-in-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.welcome-text {
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+.form-label {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.forgot-password-link {
+    margin-top: 30px;
+    text-align: right;
+}
+
+.error-message {
+    color: red;
+    margin-top: 15px;
+}
+.col-md-6 col-sm-6 sign-in{
+    padding: 20px;
+    background-color: #2578cc; /* Color de fondo predeterminado */
+    background-image: url('../img/background.jpg'); /* Ruta de la imagen de fondo */
+    background-size: cover; /* Ajusta la imagen al tamaño del contenedor */
+    border-radius: 8px;
+}
